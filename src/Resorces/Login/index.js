@@ -3,7 +3,7 @@ import  {Grid,Paper,TextField} from '@material-ui/core';
 import InputLabel from '@material-ui/core/InputLabel';
 import FormControl from '@material-ui/core/FormControl';
 import OutlinedInput from '@material-ui/core/OutlinedInput';
-import './login.css';
+import './login.scss';
 
 
 const login=()=>{    
